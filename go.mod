@@ -1,6 +1,6 @@
 module github.com/Hutchison-Technologies/gpass
 
-go 1.13
+go 1.16
 
 require (
 	github.com/googleapis/gax-go/v2 v2.0.5
