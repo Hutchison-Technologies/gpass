@@ -49,7 +49,7 @@ import (
 	"strconv"
 	"strings"
 
-	gensupport "github.com/sonda2208/gpass/internal/gensupport"
+	gensupport "github.com/Hutchison-Technologies/gpass/internal/gensupport"
 	googleapi "google.golang.org/api/googleapi"
 	option "google.golang.org/api/option"
 	htransport "google.golang.org/api/transport/http"
